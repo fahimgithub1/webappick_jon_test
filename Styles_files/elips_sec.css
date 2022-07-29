@@ -1,0 +1,21 @@
+.elips_sec{
+    /* margin-top: 132px; */
+    margin-bottom: 90px;
+    text-align: center;
+}
+
+.elips_diiv{
+    padding: 16px 22px;
+}
+
+.elips_diiv_2 h5{
+    margin-bottom: 0.3rem;
+    font-weight: 600;
+    color: #382c4d;
+}
+
+.elips_img{
+    margin-bottom: 1.5rem;
+    width: 100%;
+}
+

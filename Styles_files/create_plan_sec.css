@@ -1,0 +1,80 @@
+.creat_plan_sec{
+    margin-top: 132px;
+    margin-bottom: 170px;
+}
+
+.plan_circle{
+    background-image: url(../Images/plan_bac.png);
+    height: 400px;
+    width: 200px;
+    margin-top: -1.5rem;
+    position: relative;
+}
+
+.circle{
+    position: absolute;
+    width: 140px;
+    height: 140px;
+    padding-top: 42px;
+    text-align: center;
+    border-radius: 100%;
+    box-shadow: 2px 5px 7px rgb(207, 207, 207);
+}
+
+.circle h1{
+    font-weight: bolder;
+    color: white;
+}
+
+.c1{
+    background-color:rgba(160, 246, 212, 1);
+    top: 0;
+    left: 0;
+}
+
+.c2{
+    background-color:rgba(253, 187, 204, 1);
+    left: 0;
+    top: 190px;
+}
+.c3{
+    background-color:rgba(249, 202, 251, 1);
+    top: 75px;
+    right: 0;
+}
+
+.c4{
+    background-color:rgba(157, 231, 138, 1);
+    right: 0;
+    bottom: 0;
+}
+
+.plas_span{
+    font-size: 28px;
+    font-weight: bolder;
+}
+
+.subcip_span{
+    font-size: 19px;
+    font-weight: 500;
+}
+
+.uptitel_p{
+    color: #d379da;
+}
+
+.plan_text h5{
+    color: #282331;
+}
+
+.plan_subsciption p:not(:last-child){
+    margin-bottom: 35px;
+}
+
+.plan_subsciption p:not(:last-child){
+    margin-right: 2rem;
+}
+
+.plan_subsciption p span{
+    color: #8f49f9;
+}
