@@ -1,0 +1,82 @@
+body{
+    font-family: Myriad Pro;
+    color: black;
+}
+
+.my_container{
+    max-width: 1125px;
+    /* width: 1125px; */
+    margin: auto;
+    justify-content: space-between;
+}
+
+.col,.row{
+    padding: 0;
+    margin: 0;
+}
+
+.button1{
+    color: #d379da;
+    padding: 12px 40px;
+    background-color: white;
+    border: 1px solid rgb(187, 187, 187);
+    border-radius: 0px;
+    height: 50px;
+    font-weight: bold;
+}
+
+.button1:hover{
+    background-color: #d379da;
+    color: white;
+}
+
+
+.width100{
+    width: 100%;
+}
+
+.width95{
+    width: 95%;
+}
+
+.width80{
+    width: 80%;
+}
+
+.width98{
+    width: 98%;
+}
+
+h5{
+    margin-bottom: 1.5rem;
+}
+
+p{
+    margin-bottom: 1.5rem;
+    color: #3c3648;
+}
+
+.smal_para{
+    font-size: 14px;
+}
+
+.btn-bg-color{
+    background-color: rgba(143, 73, 249, 1);
+    color: white;
+}
+
+.text_color{
+    color: rgba(143, 73, 249, 1);
+}
+
+.h1_color{
+    color: #382c4d;
+}
+
+.text-alincanter{
+    text-align: center;
+}
+
+.front_bold{
+    font-weight: bold;
+}
